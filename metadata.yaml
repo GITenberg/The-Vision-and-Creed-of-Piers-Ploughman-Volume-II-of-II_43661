@@ -1,0 +1,31 @@
+_repo: The-Vision-and-Creed-of-Piers-Ploughman-Volume-II-of-II_43661
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Langland, William
+    alias: Langland, Robert
+    gutenberg_agent_id: '42349'
+    url: http://www.gutenberg.org/2009/agents/42349
+  editor:
+    agent_name: Wright, Thomas
+    birthdate: 1859
+    deathdate: 1936
+    gutenberg_agent_id: '1436'
+    url: http://www.gutenberg.org/2009/agents/1436
+description: ''
+gutenberg_issued: '2013-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian pilgrims and pilgrimages -- Poetry'
+- !lcc 'PR'
+title: The Vision and Creed of Piers Ploughman, Volume 2 of 2
+url: http://www.gutenberg.org/ebooks/43661
